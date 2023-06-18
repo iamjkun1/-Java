@@ -1,0 +1,67 @@
+
+E
+java:S2189¢""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8•ª®ÂŒ1
+t	java:S116Š"RRename this field "is_Pend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Î¨¢ûÿÿÿÿ8˜ª®ÂŒ1
+q	java:S116Œ"TRename this field "if_Insert" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÖ³æ8™ª®ÂŒ1
+F
+java:S1948"$Make "bg" transient or serializable.(½ĞÇ»şÿÿÿÿ8çà ÁŒ1
+I
+java:S1948"'Make "plane" transient or serializable.(†¼„“şÿÿÿÿ8çà ÁŒ1
+D
+java:S1948"'Make "plank" transient or serializable.(ÊŸˆÎ8çà ÁŒ1
+N
+java:S1948",Make "enemyPlane" transient or serializable.(ñÈî†şÿÿÿÿ8çà ÁŒ1
+O
+java:S1948!"-Make "enemyPlane2" transient or serializable.(óÓÚıÿÿÿÿ8èà ÁŒ1
+G
+java:S1948#"%Make "bgm" transient or serializable.(‰Šòşÿÿÿÿ8èà ÁŒ1
+J
+java:S1948&"(Make "shells" transient or serializable.(ë÷Õöüÿÿÿÿ8èà ÁŒ1
+F
+java:S1948(")Make "explode" transient or serializable.(ÀÖÂÎ8èà ÁŒ1
+S
+java:S1948“"0Make "offScreenImage" transient or serializable.(²àÒÊøÿÿÿÿ8Ÿª®ÂŒ1
+{
+java:S2142;"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îà ÁŒ1
+]	java:S125="<This block of commented-out lines of code should be removed.(şĞåäúÿÿÿÿ8ïà ÁŒ1
+]	java:S125y"<This block of commented-out lines of code should be removed.(àõüÿÿÿÿ8²ª®ÂŒ1
+^	java:S125€"<This block of commented-out lines of code should be removed.(Ó‚Ø€øÿÿÿÿ8³ª®ÂŒ1
+p
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¶øÂÁ8ºª®ÂŒ1
+X
+java:S1854«":Remove this useless assignment to local variable "period".(å“÷8»ª®ÂŒ1
+X
+java:S1854Å":Remove this useless assignment to local variable "period".(å“÷8»ª®ÂŒ1
+Y
+java:S1117«";Rename "period" which hides the field declared at line 124.(å“÷8Âª®ÂŒ1
+I
+java:S1481«"+Remove this unused "period" local variable.(å“÷8Äª®ÂŒ1
+Y
+java:S1117Å";Rename "period" which hides the field declared at line 124.(å“÷8Æª®ÂŒ1
+I
+java:S1481Å"+Remove this unused "period" local variable.(å“÷8Çª®ÂŒ1
+Y
+java:S1117Ô";Rename "period" which hides the field declared at line 124.(å“÷8Éª®ÂŒ1
+J
+java:S1125×"'Remove the unnecessary boolean literal.(ÍÊÓıÿÿÿÿ8Ëª®ÂŒ1
+Y
+java:S2696Ø"6Make the enclosing method "static" or remove this set.(ÃÑ¡³øÿÿÿÿ8Íª®ÂŒ1
+^	java:S125Ú"<This block of commented-out lines of code should be removed.(õøÄ¹üÿÿÿÿ8Ïª®ÂŒ1
+Y	java:S125ú"<This block of commented-out lines of code should be removed.(éÜ÷8Øª®ÂŒ1
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‡¸¡ÿÿÿÿÿ8Ùª®ÂŒ1
+^	java:S125‹"<This block of commented-out lines of code should be removed.(Ù ³®úÿÿÿÿ8Ûª®ÂŒ1
+X
+java:S1161–":Add the "@Override" annotation above this method signature(æìÑº8İª®ÂŒ1
+|
+java:S2142«"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8âª®ÂŒ1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8şà ÁŒ1
+N
+java:S1128
+",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8şà ÁŒ1
+Q
+java:S1128"/Remove this unused import 'java.applet.Applet'.(êˆ•úÿÿÿÿ8äª®ÂŒ1
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8åª®ÂŒ1
+I
+java:S1068#"'Remove this unused "bgm" private field.(‰Šòşÿÿÿÿ8ğ¤¯ÂŒ1
